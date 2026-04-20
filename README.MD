@@ -2,12 +2,6 @@
 
 `MaskProof-Bench` 是一个面向研究级数学证明的 masked-step benchmark。它对应论文 **Mask-Proof: An LLM-based Automated Data Curation and Evaluation Pipeline on Research-Level Mathematical Proofs**，目标是把真实论文中的证明步骤转成可自动评测的 `[MASK]` 恢复任务，用来测量模型在长链条数学证明里的中间推理能力。
 
-当前仓库已经做过一次清洗：
-
-- `MaskProof-Bench.jsonl` 当前共 `292` 题；
-- 所有 `mask_text` 里的掩码都已经统一为单个 `[MASK]`；
-- 弱质量样本已人工剔除一轮。
-
 ## 仓库结构
 
 ```text
