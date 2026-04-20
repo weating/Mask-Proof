@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply Proof Mask"
+  short_description: "Replace one chosen proof span with [MASK]"
+  default_prompt: "Use $apply-proof-mask to replace the selected proof span with [MASK] while leaving all surrounding text byte-faithful."

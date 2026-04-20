@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract Proof Formulas"
+  short_description: "Extract formula-only spans from LaTeX proofs"
+  default_prompt: "Use $extract-proof-formulas to extract every formula-only block from this proof and return exact text spans for masking candidates."
