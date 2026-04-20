@@ -15,13 +15,9 @@
 │   ├── judge.md
 │   ├── mask.md
 │   └── selfcontained.md
-├── codex skills/
-│   ├── apply-proof-mask/
-│   └── extract-proof-formulas/
-└── fig/
-    ├── 截屏2026-04-20 20.46.35.png
-    ├── 截屏2026-04-20 20.46.47.png
-    └── 截屏2026-04-20 20.47.00.png
+└── codex skills/
+    ├── apply-proof-mask/
+    └── extract-proof-formulas/
 ```
 
 ## 数据格式
